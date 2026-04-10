@@ -1,7 +1,11 @@
 # StarsGallery - Application Android
 
 StarsGallery est une application Android moderne permettant de consulter, rechercher et évaluer une liste de célébrités. Le projet met en œuvre les composants fondamentaux du développement Android avec une architecture propre et réactive.
+## 🎬 Demo
 
+🚀 Découvrez le projet en action — cliquez sur l'image pour voir la démo vidéo !
+
+[![Watch the video](https://img.youtube.com/vi/GWylRnAKETg/0.jpg)](https://www.youtube.com/watch?v=GWylRnAKETg)
 ## 🚀 Fonctionnalités
 
 - **Écran d'accueil (Splash Screen)** : Une animation fluide de bienvenue (rotation, échelle, translation) avec une transition élégante vers l'écran principal.
@@ -27,11 +31,7 @@ L'application suit le modèle **Modèle-Vue-Contrôleur (MVC)** pour une meilleu
 - **AndroidX & Material Design** : Pour une interface utilisateur moderne et conforme aux standards de Google.
 - **Java/Kotlin** : Développé avec le SDK Android 15 (API 35/36).
 
-## 📸 Aperçu
 
-| Liste & Recherche | Modification (Popup) | Partage |
-| :---: | :---: | :---: |
-| Barre de recherche filtrante | Formulaire de notation | Intent de partage système |
 
 ---
 *Projet réalisé dans le cadre de l'apprentissage des composants avancés Android.*
