@@ -5,7 +5,7 @@ StarsGallery est une application Android moderne permettant de consulter, recher
 
 🚀 Découvrez le projet en action — cliquez sur l'image pour voir la démo vidéo !
 
-[![Watch the video](https://img.youtube.com/vi/Xv198VQY30S6HgH1/0.jpg)((https://youtube.com/shorts/IMM6HqV8lSw?si=Xv198VQY30S6HgH1))
+[![Watch Video](https://img.youtube.com/vi/IMM6HqV8lSw/0.jpg)](https://youtube.com/shorts/IMM6HqV8lSw)
 ## 🚀 Fonctionnalités
 
 - **Écran d'accueil (Splash Screen)** : Une animation fluide de bienvenue (rotation, échelle, translation) avec une transition élégante vers l'écran principal.
